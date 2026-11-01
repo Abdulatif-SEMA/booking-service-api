@@ -2,6 +2,8 @@
 
 REST API системы бронирования номеров на FastAPI: регистрация, JWT-авторизация, роли Admin/Client, каталог номеров с фильтрами и бронирование с защитой от пересечения дат.
 
+![Swagger](docs/swagger.png)
+
 ## Стек
 
 - Python, FastAPI, Uvicorn
